@@ -9,6 +9,9 @@
 
             var openClosedPrincipleDemo = new OpenClosedPrinciple.Demo();
             openClosedPrincipleDemo.Execute();
+
+            var lyskovSubstituitionPrincipleDemo = new LiskovSubstitutionPrinciple.Demo();
+            lyskovSubstituitionPrincipleDemo.Execute();
         }
     }
 }
