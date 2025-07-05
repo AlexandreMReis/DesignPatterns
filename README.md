@@ -1,2 +1,2 @@
 # Design Patterns
-Design Patterns using C#.
+Design Patterns using csharp
